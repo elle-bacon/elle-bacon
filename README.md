@@ -1,1 +1,1 @@
-This is a Tomagotchi game.  Name your Tomagotchi character, then feed, play, and nap to keep your character happy.  
+This is a Tomagotchi game.  Feed your character 10 times within 50 seconds and play to win the game.
