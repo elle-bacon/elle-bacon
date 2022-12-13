@@ -8,7 +8,6 @@ display: inline-block;
   h1 {
     text-align: center;
     font-family: Arial
-    color: #06D85F;
  
   }
   
@@ -20,7 +19,7 @@ display: inline-block;
   
   .button {
     font-size: 1em;
-    padding: 10px;
+    padding: 5px;
     color: #black;
     border: 2px solid #06D85F;
     border-radius: 20px/50px;
@@ -29,7 +28,7 @@ display: inline-block;
     transition: all 0.3s ease-out;
   }
   .button:hover {
-    background: #06D85F;
+    background: #6dc1d8;
   }
   
   .overlay {
@@ -50,17 +49,17 @@ display: inline-block;
   
   .popup {
     margin: 70px auto;
-    padding: 20px;
-    background: #fff;
+    padding: 50px;
+    background: rgb(122, 201, 217);
     border-radius: 5px;
     width: 30%;
     position: relative;
-    transition: all 5s ease-in-out;
+    transition: all 3s ease-in-out;
   }
   
   .popup h2 {
     margin-top: 0;
-    color: #333;
+    color: rgb(51, 51, 51);
     font-family: Tahoma, Arial, sans-serif;
   }
   .popup .close {
@@ -74,7 +73,7 @@ display: inline-block;
     color: #333;
   }
   .popup .close:hover {
-    color: #06D85F;
+    color: #6d8bd1;
   }
   .popup .content {
     max-height: 30%;
