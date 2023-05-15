@@ -1,0 +1,14 @@
+
+
+@function: popup1 
+    @if //button is clicked then take back to homepage.  **i think this is pop up 1 but need to double check//
+   
+    //OR//
+    
+    @if // you win button//
+
+@function: button
+    @while //timer is going, game can be played.  otherwise sent to ending game page.//
+
+
+
